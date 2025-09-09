@@ -11,7 +11,7 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
