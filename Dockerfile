@@ -21,7 +21,7 @@ RUN mkdir -p /data/
 WORKDIR /data
 
 # perform git clone
-RUN git clone https://github.com/anilbidari/CloudenabledWebApp.git
+RUN git clone https://github.com/prasadkasthuri/CloudenabledWebApp.git
 
 # switch to cloudenabledwebapp directory
 WORKDIR /data/CloudenabledWebApp
